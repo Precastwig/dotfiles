@@ -3,11 +3,11 @@
 	[
 	],
 	"last_version": 3143,
-	"last_window_id": 93,
+	"last_window_id": 103,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 523.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -437,6 +437,8 @@
 			},
 			"file_history":
 			[
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/spirals.x3d",
+				"/home/precastwig/Modules/CAV/assignment2/ass2.tex",
 				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/both.x3d",
 				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/testing2.x3d",
 				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/trianglemesh.x3d",
@@ -485,7 +487,7 @@
 			],
 			"find":
 			{
-				"height": 45.0
+				"height": 28.0
 			},
 			"find_in_files":
 			{
@@ -499,11 +501,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"-0",
-					"\\tableleft{2cm}{",
-					"\\tableright{2cm}{",
-					"&&",
-					"+"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -511,10 +508,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"-0.0",
-					"",
-					"&",
-					"-"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -524,7 +517,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 28.0
 			},
 			"input":
 			{
@@ -534,6 +527,10 @@
 			"output.SublimeLinter":
 			{
 				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 133.0
 			},
 			"output.exec":
 			{
@@ -546,7 +543,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 60.0
+				"height": 52.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -587,10 +584,664 @@
 				"max_columns": 2
 			}
 		},
-		"new_window_width": 0.0
+		"new_window_width": 959.0
 	},
 	"windows":
 	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"min",
+						"minus"
+					],
+					[
+						"optimi",
+						"optimisation"
+					],
+					[
+						"find",
+						"findDepth"
+					],
+					[
+						"to",
+						"toString"
+					],
+					[
+						"n",
+						"nvector"
+					],
+					[
+						"small",
+						"smallestVoxelWidth"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"obj",
+						"objects"
+					],
+					[
+						"inter",
+						"intersectCost"
+					],
+					[
+						"ob",
+						"objects"
+					],
+					[
+						"inters",
+						"intersectCost"
+					],
+					[
+						"res",
+						"reserve"
+					],
+					[
+						"nwdi",
+						"nwidth"
+					],
+					[
+						"nwi",
+						"nwidth"
+					],
+					[
+						"type",
+						"type"
+					],
+					[
+						"mid",
+						"midpoint"
+					],
+					[
+						"no",
+						"nobjs"
+					],
+					[
+						"int",
+						"intersectCost"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"octre",
+						"octreeType"
+					],
+					[
+						"re",
+						"resolutiony"
+					],
+					[
+						"ver",
+						"vertexNormalTemp"
+					],
+					[
+						"faceNo",
+						"faceNormalTemp"
+					],
+					[
+						"norma",
+						"normalize"
+					],
+					[
+						"U",
+						"UNIDENTFIED"
+					],
+					[
+						"TRI",
+						"TRIANGLEMESH"
+					],
+					[
+						"smoo",
+						"smoothShading"
+					],
+					[
+						"TRIA",
+						"TRIANGLEMESH"
+					],
+					[
+						"Sha",
+						"Shapes"
+					],
+					[
+						"sh",
+						"shapedata"
+					],
+					[
+						"TR",
+						"TRIANGLEMESH"
+					],
+					[
+						"S",
+						"Shapes"
+					],
+					[
+						"sha",
+						"shape"
+					],
+					[
+						"ise",
+						"isect"
+					],
+					[
+						"po",
+						"point"
+					],
+					[
+						"fab",
+						"fabs"
+					],
+					[
+						"shape",
+						"shapedata"
+					],
+					[
+						"rad",
+						"radius"
+					],
+					[
+						"li",
+						"light"
+					],
+					[
+						"sp",
+						"specular"
+					],
+					[
+						"hi",
+						"hitObject"
+					],
+					[
+						"is",
+						"isect"
+					],
+					[
+						"Poi",
+						"PointLightNode"
+					],
+					[
+						"spotli",
+						"spotlightFactor"
+					],
+					[
+						"hit",
+						"hitpoint"
+					],
+					[
+						"spotL",
+						"spotlightFactor"
+					],
+					[
+						"Point",
+						"PointLight"
+					],
+					[
+						"SPOT",
+						"SPOTLIGHT"
+					],
+					[
+						"Li",
+						"LightTypes"
+					],
+					[
+						"SPHE",
+						"SPHERE"
+					],
+					[
+						"radi",
+						"radius"
+					],
+					[
+						"In",
+						"intensity"
+					],
+					[
+						"inte",
+						"intensity"
+					],
+					[
+						"DIRE",
+						"DIRECTIONALLIGHT_STRUCT"
+					],
+					[
+						"POI",
+						"POINTLIGHT_STRUCT"
+					],
+					[
+						"DIR",
+						"DIRECTIONALLIGHT_STRUCT"
+					],
+					[
+						"DI",
+						"DIRECTIONALLIGHT_STRUCT"
+					],
+					[
+						"spo",
+						"spotlight"
+					],
+					[
+						"BOX",
+						"BOX_STRUCT"
+					],
+					[
+						"ra",
+						"radius2"
+					],
+					[
+						"point",
+						"pointlight"
+					],
+					[
+						"SPOTLIGH",
+						"SPOTLIGHT_STRUCT"
+					],
+					[
+						"CAMER",
+						"CAMERA_STRUCT"
+					],
+					[
+						"PO",
+						"POINTLIGHT_STRUCT"
+					],
+					[
+						"Spot",
+						"SpotLightNode"
+					],
+					[
+						"Dir",
+						"DirectionalLightNode"
+					],
+					[
+						"SPO",
+						"SPOTLIGHT_STRUCT"
+					],
+					[
+						"nve",
+						"nvector"
+					],
+					[
+						"pix",
+						"pixelY"
+					],
+					[
+						"camer",
+						"CameraToWorld"
+					],
+					[
+						"scene",
+						"sceneCamera"
+					],
+					[
+						"shaep",
+						"shapedata"
+					],
+					[
+						"make",
+						"make_shared"
+					],
+					[
+						"verT",
+						"vertexNormals"
+					],
+					[
+						"verte",
+						"vertexNormals"
+					],
+					[
+						"null",
+						"nullptr"
+					],
+					[
+						"vec",
+						"Vec2"
+					],
+					[
+						"face",
+						"faceNormalIndexes"
+					],
+					[
+						"faceN",
+						"faceNormalTemp"
+					],
+					[
+						"shared",
+						"shared_ptr"
+					],
+					[
+						"in",
+						"indexes"
+					],
+					[
+						"v",
+						"vector\tstd::vector"
+					],
+					[
+						"TRIANG",
+						"TRIANGLEMESH"
+					],
+					[
+						"Coor",
+						"CoordinateNode"
+					],
+					[
+						"Appre",
+						"AppearanceNode"
+					],
+					[
+						"T",
+						"TRIANGLEMESH"
+					],
+					[
+						"nod",
+						"node_id"
+					],
+					[
+						"node",
+						"nodes"
+					],
+					[
+						"s",
+						"size"
+					],
+					[
+						"lab",
+						"label_lines"
+					],
+					[
+						"size",
+						"sizestep"
+					],
+					[
+						"siz",
+						"sizey"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/precastwig/Documents/CV/cv.tex",
+					"settings":
+					{
+						"buffer_size": 5333,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 214.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 461.0
+			},
+			"console":
+			{
+				"height": 131.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"ls"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/precastwig/Documents/Pub quiz/Quiz2",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/both.x3d",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/testing2.x3d",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/trianglemesh.x3d",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/simplemesh.x3d",
+				"/home/precastwig/Final-Year-Project/TestfileGenerator/main",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/spiralspheres_nonuniform.bmp",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/spiralspheres_regular.bmp",
+				"/home/precastwig/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/precastwig/Final-Year-Project/Raytracer/include/light.h",
+				"/home/precastwig/Final-Year-Project/Raytracer/Makefile",
+				"/home/precastwig/Final-Year-Project/Raytracer/include/octree.h",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/trianglemesh.bmp",
+				"/home/precastwig/Final-Year-Project/FinalPaper/final-paper.tex",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/SimpleBall.x3d",
+				"/home/precastwig/Final-Year-Project/Paper/paper.tex",
+				"/home/precastwig/Final-Year-Project/Paper/references.bib",
+				"/home/precastwig/Neural-Assignment/CODE/retrain_logs/output_labels.txt",
+				"/home/precastwig/Documents/JavaLessons/Pipes/Validation.java",
+				"/home/precastwig/Neural-Assignment/CODE/trainer.py",
+				"/home/precastwig/Neural-Assignment/CODE/input.py",
+				"/home/precastwig/Neural-Assignment/CODE/readboxbounding2.py",
+				"/home/precastwig/Neural-Assignment/CODE/classify.py",
+				"/home/precastwig/Documents/Pub quiz/Quiz1",
+				"/home/precastwig/Neural-Assignment/CODE/test.py",
+				"/home/precastwig/Documents/JavaLessons/Pipes/Pipes.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/OrderCalculation.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/GUI.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/Main.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/GUI.form",
+				"/home/precastwig/Documents/JavaLessons/Pipes/TypeFive.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/TypeFour.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/TypeOne.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/TypeThree.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/TypeTwo.java",
+				"/home/precastwig/nc2017/backprop/backprop.py",
+				"/home/precastwig/nc2017/backprop/fnn_utils.py",
+				"/home/precastwig/Neural-Assignment/CODE/classify_image.py",
+				"/home/precastwig/Neural-Assignment/CODE/readme.md",
+				"/home/precastwig/Downloads/train/2007_000027.txt",
+				"/tmp/imagenet/imagenet_2012_challenge_label_map_proto.pbtxt",
+				"/home/precastwig/NONSENSE/models/tutorials/image/imagenet/classify_image.py",
+				"/home/precastwig/Neural-Assignment/Report/report.tex",
+				"/home/precastwig/Neural-Assignment/CODE/activatetensorflow.txt",
+				"/home/precastwig/Modules/MachineLearning/CBT2/report.tex",
+				"/home/precastwig/Modules/MachineLearning/CBT1/report.tex"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 166.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"tab"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/precastwig/Documents/CV/cv.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5333,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										685,
+										685
+									]
+								],
+								"settings":
+								{
+									"SL.45.region_keys":
+									[
+									],
+									"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 121.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 94,
+			"workspace_name": ""
+		},
 		{
 			"auto_complete":
 			{
@@ -978,19 +1629,28 @@
 					}
 				},
 				{
-					"file": "/home/precastwig/Final-Year-Project/FinalPaper/final-paper.tex",
+					"file": "/home/precastwig/Final-Year-Project/FinalPaper/parts/theory.tex",
 					"settings":
 					{
-						"buffer_size": 2996,
+						"buffer_size": 6438,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/precastwig/Final-Year-Project/Raytracer/testfiles/spirals.x3d",
+					"file": "/home/precastwig/Final-Year-Project/FinalPaper/parts/optimise.tex",
 					"settings":
 					{
-						"buffer_size": 22323,
+						"buffer_size": 581,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/precastwig/Final-Year-Project/FinalPaper/final-paper.tex",
+					"settings":
+					{
+						"buffer_size": 2996,
+						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				}
@@ -1049,6 +1709,8 @@
 			},
 			"file_history":
 			[
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/spirals.x3d",
+				"/home/precastwig/Modules/CAV/assignment2/ass2.tex",
 				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/both.x3d",
 				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/testing2.x3d",
 				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/trianglemesh.x3d",
@@ -1097,7 +1759,7 @@
 			],
 			"find":
 			{
-				"height": 45.0
+				"height": 28.0
 			},
 			"find_in_files":
 			{
@@ -1137,7 +1799,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 2,
 					"sheets":
 					[
 						{
@@ -1159,18 +1821,81 @@
 								],
 								"settings":
 								{
+									"SL.14.region_keys":
+									[
+									],
 									"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 1462.0,
+								"translation.y": 302.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/precastwig/Final-Year-Project/FinalPaper/parts/theory.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6438,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6423,
+										6423
+									]
+								],
+								"settings":
+								{
+									"SL.15.region_keys":
+									[
+									],
+									"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2700.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/precastwig/Final-Year-Project/FinalPaper/parts/optimise.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 581,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
 							"type": "text"
 						},
 						{
-							"buffer": 1,
+							"buffer": 3,
 							"file": "/home/precastwig/Final-Year-Project/FinalPaper/final-paper.tex",
 							"semi_transient": false,
 							"settings":
@@ -1182,48 +1907,23 @@
 								"selection":
 								[
 									[
-										0,
-										0
+										2605,
+										2605
 									]
 								],
 								"settings":
 								{
+									"SL.17.region_keys":
+									[
+									],
 									"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 253.0,
+								"translation.y": 2001.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/precastwig/Final-Year-Project/Raytracer/testfiles/spirals.x3d",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 22323,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/XML/XML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -1231,7 +1931,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 28.0
 			},
 			"input":
 			{
@@ -1264,6 +1964,10 @@
 			{
 				"height": 0.0
 			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 133.0
+			},
 			"output.exec":
 			{
 				"height": 121.0
@@ -1273,11 +1977,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"position": "0,0,0,0,0,0,0,959,1063,1920,1080",
 			"project": "",
 			"replace":
 			{
-				"height": 60.0
+				"height": 52.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1702,19 +2406,665 @@
 			"buffers":
 			[
 				{
-					"file": "/home/precastwig/dotfiles/cloneall.sh",
+					"file": "/home/precastwig/Final-Year-Project/Paper/paper.tex",
 					"settings":
 					{
-						"buffer_size": 221,
-						"encoding": "UTF-8",
+						"buffer_size": 31434,
 						"line_ending": "Unix"
 					}
-				},
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 214.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 461.0
+			},
+			"console":
+			{
+				"height": 131.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"ls"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/spirals.x3d",
+				"/home/precastwig/Modules/CAV/assignment2/ass2.tex",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/both.x3d",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/testing2.x3d",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/trianglemesh.x3d",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/simplemesh.x3d",
+				"/home/precastwig/Final-Year-Project/TestfileGenerator/main",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/spiralspheres_nonuniform.bmp",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/spiralspheres_regular.bmp",
+				"/home/precastwig/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/precastwig/Final-Year-Project/Raytracer/include/light.h",
+				"/home/precastwig/Final-Year-Project/Raytracer/Makefile",
+				"/home/precastwig/Final-Year-Project/Raytracer/include/octree.h",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/trianglemesh.bmp",
+				"/home/precastwig/Final-Year-Project/FinalPaper/final-paper.tex",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/SimpleBall.x3d",
+				"/home/precastwig/Final-Year-Project/Paper/paper.tex",
+				"/home/precastwig/Final-Year-Project/Paper/references.bib",
+				"/home/precastwig/Neural-Assignment/CODE/retrain_logs/output_labels.txt",
+				"/home/precastwig/Documents/JavaLessons/Pipes/Validation.java",
+				"/home/precastwig/Neural-Assignment/CODE/trainer.py",
+				"/home/precastwig/Neural-Assignment/CODE/input.py",
+				"/home/precastwig/Neural-Assignment/CODE/readboxbounding2.py",
+				"/home/precastwig/Neural-Assignment/CODE/classify.py",
+				"/home/precastwig/Documents/Pub quiz/Quiz1",
+				"/home/precastwig/Neural-Assignment/CODE/test.py",
+				"/home/precastwig/Documents/JavaLessons/Pipes/Pipes.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/OrderCalculation.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/GUI.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/Main.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/GUI.form",
+				"/home/precastwig/Documents/JavaLessons/Pipes/TypeFive.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/TypeFour.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/TypeOne.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/TypeThree.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/TypeTwo.java",
+				"/home/precastwig/nc2017/backprop/backprop.py",
+				"/home/precastwig/nc2017/backprop/fnn_utils.py",
+				"/home/precastwig/Neural-Assignment/CODE/classify_image.py",
+				"/home/precastwig/Neural-Assignment/CODE/readme.md",
+				"/home/precastwig/Downloads/train/2007_000027.txt",
+				"/tmp/imagenet/imagenet_2012_challenge_label_map_proto.pbtxt",
+				"/home/precastwig/NONSENSE/models/tutorials/image/imagenet/classify_image.py",
+				"/home/precastwig/Neural-Assignment/Report/report.tex",
+				"/home/precastwig/Neural-Assignment/CODE/activatetensorflow.txt",
+				"/home/precastwig/Modules/MachineLearning/CBT2/report.tex",
+				"/home/precastwig/Modules/MachineLearning/CBT1/report.tex"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 166.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
 				{
-					"file": "/home/precastwig/dotfiles/download.sh",
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/precastwig/Final-Year-Project/Paper/paper.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 31434,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										16021,
+										16021
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 5739.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 133.0
+			},
+			"output.exec":
+			{
+				"height": 121.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,0,1920,523,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 97,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"min",
+						"minus"
+					],
+					[
+						"optimi",
+						"optimisation"
+					],
+					[
+						"find",
+						"findDepth"
+					],
+					[
+						"to",
+						"toString"
+					],
+					[
+						"n",
+						"nvector"
+					],
+					[
+						"small",
+						"smallestVoxelWidth"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"obj",
+						"objects"
+					],
+					[
+						"inter",
+						"intersectCost"
+					],
+					[
+						"ob",
+						"objects"
+					],
+					[
+						"inters",
+						"intersectCost"
+					],
+					[
+						"res",
+						"reserve"
+					],
+					[
+						"nwdi",
+						"nwidth"
+					],
+					[
+						"nwi",
+						"nwidth"
+					],
+					[
+						"type",
+						"type"
+					],
+					[
+						"mid",
+						"midpoint"
+					],
+					[
+						"no",
+						"nobjs"
+					],
+					[
+						"int",
+						"intersectCost"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"octre",
+						"octreeType"
+					],
+					[
+						"re",
+						"resolutiony"
+					],
+					[
+						"ver",
+						"vertexNormalTemp"
+					],
+					[
+						"faceNo",
+						"faceNormalTemp"
+					],
+					[
+						"norma",
+						"normalize"
+					],
+					[
+						"U",
+						"UNIDENTFIED"
+					],
+					[
+						"TRI",
+						"TRIANGLEMESH"
+					],
+					[
+						"smoo",
+						"smoothShading"
+					],
+					[
+						"TRIA",
+						"TRIANGLEMESH"
+					],
+					[
+						"Sha",
+						"Shapes"
+					],
+					[
+						"sh",
+						"shapedata"
+					],
+					[
+						"TR",
+						"TRIANGLEMESH"
+					],
+					[
+						"S",
+						"Shapes"
+					],
+					[
+						"sha",
+						"shape"
+					],
+					[
+						"ise",
+						"isect"
+					],
+					[
+						"po",
+						"point"
+					],
+					[
+						"fab",
+						"fabs"
+					],
+					[
+						"shape",
+						"shapedata"
+					],
+					[
+						"rad",
+						"radius"
+					],
+					[
+						"li",
+						"light"
+					],
+					[
+						"sp",
+						"specular"
+					],
+					[
+						"hi",
+						"hitObject"
+					],
+					[
+						"is",
+						"isect"
+					],
+					[
+						"Poi",
+						"PointLightNode"
+					],
+					[
+						"spotli",
+						"spotlightFactor"
+					],
+					[
+						"hit",
+						"hitpoint"
+					],
+					[
+						"spotL",
+						"spotlightFactor"
+					],
+					[
+						"Point",
+						"PointLight"
+					],
+					[
+						"SPOT",
+						"SPOTLIGHT"
+					],
+					[
+						"Li",
+						"LightTypes"
+					],
+					[
+						"SPHE",
+						"SPHERE"
+					],
+					[
+						"radi",
+						"radius"
+					],
+					[
+						"In",
+						"intensity"
+					],
+					[
+						"inte",
+						"intensity"
+					],
+					[
+						"DIRE",
+						"DIRECTIONALLIGHT_STRUCT"
+					],
+					[
+						"POI",
+						"POINTLIGHT_STRUCT"
+					],
+					[
+						"DIR",
+						"DIRECTIONALLIGHT_STRUCT"
+					],
+					[
+						"DI",
+						"DIRECTIONALLIGHT_STRUCT"
+					],
+					[
+						"spo",
+						"spotlight"
+					],
+					[
+						"BOX",
+						"BOX_STRUCT"
+					],
+					[
+						"ra",
+						"radius2"
+					],
+					[
+						"point",
+						"pointlight"
+					],
+					[
+						"SPOTLIGH",
+						"SPOTLIGHT_STRUCT"
+					],
+					[
+						"CAMER",
+						"CAMERA_STRUCT"
+					],
+					[
+						"PO",
+						"POINTLIGHT_STRUCT"
+					],
+					[
+						"Spot",
+						"SpotLightNode"
+					],
+					[
+						"Dir",
+						"DirectionalLightNode"
+					],
+					[
+						"SPO",
+						"SPOTLIGHT_STRUCT"
+					],
+					[
+						"nve",
+						"nvector"
+					],
+					[
+						"pix",
+						"pixelY"
+					],
+					[
+						"camer",
+						"CameraToWorld"
+					],
+					[
+						"scene",
+						"sceneCamera"
+					],
+					[
+						"shaep",
+						"shapedata"
+					],
+					[
+						"make",
+						"make_shared"
+					],
+					[
+						"verT",
+						"vertexNormals"
+					],
+					[
+						"verte",
+						"vertexNormals"
+					],
+					[
+						"null",
+						"nullptr"
+					],
+					[
+						"vec",
+						"Vec2"
+					],
+					[
+						"face",
+						"faceNormalIndexes"
+					],
+					[
+						"faceN",
+						"faceNormalTemp"
+					],
+					[
+						"shared",
+						"shared_ptr"
+					],
+					[
+						"in",
+						"indexes"
+					],
+					[
+						"v",
+						"vector\tstd::vector"
+					],
+					[
+						"TRIANG",
+						"TRIANGLEMESH"
+					],
+					[
+						"Coor",
+						"CoordinateNode"
+					],
+					[
+						"Appre",
+						"AppearanceNode"
+					],
+					[
+						"T",
+						"TRIANGLEMESH"
+					],
+					[
+						"nod",
+						"node_id"
+					],
+					[
+						"node",
+						"nodes"
+					],
+					[
+						"s",
+						"size"
+					],
+					[
+						"lab",
+						"label_lines"
+					],
+					[
+						"size",
+						"sizestep"
+					],
+					[
+						"siz",
+						"sizey"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/precastwig/.bashrc",
 					"settings":
 					{
-						"buffer_size": 76,
+						"buffer_size": 5044,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -1774,6 +3124,8 @@
 			},
 			"file_history":
 			[
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/spirals.x3d",
+				"/home/precastwig/Modules/CAV/assignment2/ass2.tex",
 				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/both.x3d",
 				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/testing2.x3d",
 				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/trianglemesh.x3d",
@@ -1822,7 +3174,7 @@
 			],
 			"find":
 			{
-				"height": 45.0
+				"height": 28.0
 			},
 			"find_in_files":
 			{
@@ -1858,59 +3210,32 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/precastwig/dotfiles/cloneall.sh",
+							"file": "/home/precastwig/.bashrc",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 221,
+								"buffer_size": 5044,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										189,
-										189
+										5043,
+										5043
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 2959.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/precastwig/dotfiles/download.sh",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 76,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										76,
-										76
-									]
-								],
-								"settings":
-								{
-									"auto_name": "",
-									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -1918,7 +3243,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 28.0
 			},
 			"input":
 			{
@@ -1951,6 +3276,10 @@
 			{
 				"height": 0.0
 			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 133.0
+			},
 			"output.exec":
 			{
 				"height": 121.0
@@ -1960,11 +3289,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,0,540,1920,1053,1920,1080",
+			"position": "0,0,0,0,0,0,0,959,523,1920,1080",
 			"project": "",
 			"replace":
 			{
-				"height": 60.0
+				"height": 52.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2008,7 +3337,662 @@
 			{
 				"max_columns": 2
 			},
-			"window_id": 93,
+			"window_id": 102,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"min",
+						"minus"
+					],
+					[
+						"optimi",
+						"optimisation"
+					],
+					[
+						"find",
+						"findDepth"
+					],
+					[
+						"to",
+						"toString"
+					],
+					[
+						"n",
+						"nvector"
+					],
+					[
+						"small",
+						"smallestVoxelWidth"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"obj",
+						"objects"
+					],
+					[
+						"inter",
+						"intersectCost"
+					],
+					[
+						"ob",
+						"objects"
+					],
+					[
+						"inters",
+						"intersectCost"
+					],
+					[
+						"res",
+						"reserve"
+					],
+					[
+						"nwdi",
+						"nwidth"
+					],
+					[
+						"nwi",
+						"nwidth"
+					],
+					[
+						"type",
+						"type"
+					],
+					[
+						"mid",
+						"midpoint"
+					],
+					[
+						"no",
+						"nobjs"
+					],
+					[
+						"int",
+						"intersectCost"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"octre",
+						"octreeType"
+					],
+					[
+						"re",
+						"resolutiony"
+					],
+					[
+						"ver",
+						"vertexNormalTemp"
+					],
+					[
+						"faceNo",
+						"faceNormalTemp"
+					],
+					[
+						"norma",
+						"normalize"
+					],
+					[
+						"U",
+						"UNIDENTFIED"
+					],
+					[
+						"TRI",
+						"TRIANGLEMESH"
+					],
+					[
+						"smoo",
+						"smoothShading"
+					],
+					[
+						"TRIA",
+						"TRIANGLEMESH"
+					],
+					[
+						"Sha",
+						"Shapes"
+					],
+					[
+						"sh",
+						"shapedata"
+					],
+					[
+						"TR",
+						"TRIANGLEMESH"
+					],
+					[
+						"S",
+						"Shapes"
+					],
+					[
+						"sha",
+						"shape"
+					],
+					[
+						"ise",
+						"isect"
+					],
+					[
+						"po",
+						"point"
+					],
+					[
+						"fab",
+						"fabs"
+					],
+					[
+						"shape",
+						"shapedata"
+					],
+					[
+						"rad",
+						"radius"
+					],
+					[
+						"li",
+						"light"
+					],
+					[
+						"sp",
+						"specular"
+					],
+					[
+						"hi",
+						"hitObject"
+					],
+					[
+						"is",
+						"isect"
+					],
+					[
+						"Poi",
+						"PointLightNode"
+					],
+					[
+						"spotli",
+						"spotlightFactor"
+					],
+					[
+						"hit",
+						"hitpoint"
+					],
+					[
+						"spotL",
+						"spotlightFactor"
+					],
+					[
+						"Point",
+						"PointLight"
+					],
+					[
+						"SPOT",
+						"SPOTLIGHT"
+					],
+					[
+						"Li",
+						"LightTypes"
+					],
+					[
+						"SPHE",
+						"SPHERE"
+					],
+					[
+						"radi",
+						"radius"
+					],
+					[
+						"In",
+						"intensity"
+					],
+					[
+						"inte",
+						"intensity"
+					],
+					[
+						"DIRE",
+						"DIRECTIONALLIGHT_STRUCT"
+					],
+					[
+						"POI",
+						"POINTLIGHT_STRUCT"
+					],
+					[
+						"DIR",
+						"DIRECTIONALLIGHT_STRUCT"
+					],
+					[
+						"DI",
+						"DIRECTIONALLIGHT_STRUCT"
+					],
+					[
+						"spo",
+						"spotlight"
+					],
+					[
+						"BOX",
+						"BOX_STRUCT"
+					],
+					[
+						"ra",
+						"radius2"
+					],
+					[
+						"point",
+						"pointlight"
+					],
+					[
+						"SPOTLIGH",
+						"SPOTLIGHT_STRUCT"
+					],
+					[
+						"CAMER",
+						"CAMERA_STRUCT"
+					],
+					[
+						"PO",
+						"POINTLIGHT_STRUCT"
+					],
+					[
+						"Spot",
+						"SpotLightNode"
+					],
+					[
+						"Dir",
+						"DirectionalLightNode"
+					],
+					[
+						"SPO",
+						"SPOTLIGHT_STRUCT"
+					],
+					[
+						"nve",
+						"nvector"
+					],
+					[
+						"pix",
+						"pixelY"
+					],
+					[
+						"camer",
+						"CameraToWorld"
+					],
+					[
+						"scene",
+						"sceneCamera"
+					],
+					[
+						"shaep",
+						"shapedata"
+					],
+					[
+						"make",
+						"make_shared"
+					],
+					[
+						"verT",
+						"vertexNormals"
+					],
+					[
+						"verte",
+						"vertexNormals"
+					],
+					[
+						"null",
+						"nullptr"
+					],
+					[
+						"vec",
+						"Vec2"
+					],
+					[
+						"face",
+						"faceNormalIndexes"
+					],
+					[
+						"faceN",
+						"faceNormalTemp"
+					],
+					[
+						"shared",
+						"shared_ptr"
+					],
+					[
+						"in",
+						"indexes"
+					],
+					[
+						"v",
+						"vector\tstd::vector"
+					],
+					[
+						"TRIANG",
+						"TRIANGLEMESH"
+					],
+					[
+						"Coor",
+						"CoordinateNode"
+					],
+					[
+						"Appre",
+						"AppearanceNode"
+					],
+					[
+						"T",
+						"TRIANGLEMESH"
+					],
+					[
+						"nod",
+						"node_id"
+					],
+					[
+						"node",
+						"nodes"
+					],
+					[
+						"s",
+						"size"
+					],
+					[
+						"lab",
+						"label_lines"
+					],
+					[
+						"size",
+						"sizestep"
+					],
+					[
+						"siz",
+						"sizey"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/precastwig/dotfiles/cloneall.sh",
+					"settings":
+					{
+						"buffer_size": 227,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 214.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 461.0
+			},
+			"console":
+			{
+				"height": 131.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"ls"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/spirals.x3d",
+				"/home/precastwig/Modules/CAV/assignment2/ass2.tex",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/both.x3d",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/testing2.x3d",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/trianglemesh.x3d",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/simplemesh.x3d",
+				"/home/precastwig/Final-Year-Project/TestfileGenerator/main",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/spiralspheres_nonuniform.bmp",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/spiralspheres_regular.bmp",
+				"/home/precastwig/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/precastwig/Final-Year-Project/Raytracer/include/light.h",
+				"/home/precastwig/Final-Year-Project/Raytracer/Makefile",
+				"/home/precastwig/Final-Year-Project/Raytracer/include/octree.h",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/trianglemesh.bmp",
+				"/home/precastwig/Final-Year-Project/FinalPaper/final-paper.tex",
+				"/home/precastwig/Final-Year-Project/Raytracer/testfiles/SimpleBall.x3d",
+				"/home/precastwig/Final-Year-Project/Paper/paper.tex",
+				"/home/precastwig/Final-Year-Project/Paper/references.bib",
+				"/home/precastwig/Neural-Assignment/CODE/retrain_logs/output_labels.txt",
+				"/home/precastwig/Documents/JavaLessons/Pipes/Validation.java",
+				"/home/precastwig/Neural-Assignment/CODE/trainer.py",
+				"/home/precastwig/Neural-Assignment/CODE/input.py",
+				"/home/precastwig/Neural-Assignment/CODE/readboxbounding2.py",
+				"/home/precastwig/Neural-Assignment/CODE/classify.py",
+				"/home/precastwig/Documents/Pub quiz/Quiz1",
+				"/home/precastwig/Neural-Assignment/CODE/test.py",
+				"/home/precastwig/Documents/JavaLessons/Pipes/Pipes.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/OrderCalculation.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/GUI.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/Main.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/GUI.form",
+				"/home/precastwig/Documents/JavaLessons/Pipes/TypeFive.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/TypeFour.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/TypeOne.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/TypeThree.java",
+				"/home/precastwig/Documents/JavaLessons/Pipes/TypeTwo.java",
+				"/home/precastwig/nc2017/backprop/backprop.py",
+				"/home/precastwig/nc2017/backprop/fnn_utils.py",
+				"/home/precastwig/Neural-Assignment/CODE/classify_image.py",
+				"/home/precastwig/Neural-Assignment/CODE/readme.md",
+				"/home/precastwig/Downloads/train/2007_000027.txt",
+				"/tmp/imagenet/imagenet_2012_challenge_label_map_proto.pbtxt",
+				"/home/precastwig/NONSENSE/models/tutorials/image/imagenet/classify_image.py",
+				"/home/precastwig/Neural-Assignment/Report/report.tex",
+				"/home/precastwig/Neural-Assignment/CODE/activatetensorflow.txt",
+				"/home/precastwig/Modules/MachineLearning/CBT2/report.tex",
+				"/home/precastwig/Modules/MachineLearning/CBT1/report.tex"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 166.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/precastwig/dotfiles/cloneall.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 227,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										27,
+										27
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 133.0
+			},
+			"output.exec":
+			{
+				"height": 121.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,0,959,523,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 103,
 			"workspace_name": ""
 		}
 	],
